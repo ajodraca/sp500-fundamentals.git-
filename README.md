@@ -1,1 +1,1 @@
-# sp500-fundamentals.git-
+# sp500-fundamentals.git
